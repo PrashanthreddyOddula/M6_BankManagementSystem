@@ -10,14 +10,4 @@
 |  T6       |If wrong choice chosen | 9 | Invalid choice |
 
 
-![OutputforNewAccountCreate](https://user-images.githubusercontent.com/46950972/161413050-cb8aa23f-4a73-4247-b8da-fa3c2a5ea7c8.png)
-
-![OutputforDepositAndWithdraw](https://user-images.githubusercontent.com/46950972/161413081-564962ae-c60d-4688-975e-272426915db8.png)
-
-
-![OutputforViewDetails](https://user-images.githubusercontent.com/46950972/161413098-bcc08ed7-9476-40f0-a80f-cab767e76488.png)
-
-
-
-![outputforList](https://user-images.githubusercontent.com/46950972/161413105-a333ce47-56fb-43de-b3c2-af9900775a45.png)
 
