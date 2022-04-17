@@ -26,7 +26,8 @@
 
 ![4output](https://user-images.githubusercontent.com/63446991/163699220-140b54cf-d093-44a1-a95e-c30a91505313.png)
 
-![pylint](https://user-images.githubusercontent.com/63446991/163699823-a729b239-2e20-4a57-a3b5-241fd60dd4b9.png)
+![pylint](https://user-images.githubusercontent.com/63446991/163724094-19c786bc-3706-4f43-a614-040e3541a945.png)
+
 
 
 
